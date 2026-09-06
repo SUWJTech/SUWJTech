@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%F0%9F%91%8B%2CI'm+Wenjie+SU.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
 
 
-### 📫 Contact
-
-- Email: 23136123@usx.edu.cn
-
 
 ### 📊 GitHub Stats
 
